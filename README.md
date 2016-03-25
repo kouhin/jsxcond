@@ -86,7 +86,7 @@ class SomeComponent extends React.Component {
 }
 ```
 
-- Recommend using `() => ()` to have lazy eval(). However `THEN_FORM` and `ELSE_FORM` are still supported.
+- Recommend using `() => ()` to have lazy eval(). However using common value as `THEN_FORM` and `ELSE_FORM` is still supported.
 
 ``` jsx
 import React from 'react';
