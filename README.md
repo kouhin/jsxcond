@@ -108,8 +108,6 @@ class SomeComponent extends React.Component {
 
 ### cond
 
-### if-else-then
-
 **`_cond (STATEMENT1, STATEMENT2...)`**
 
 STATEMENT can be `array`, `function`, `common value`:
