@@ -1,5 +1,7 @@
 # JSXCOND
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kouhin/jsxcond.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/kouhin/jsxcond.svg?branch=master)](https://travis-ci.org/kouhin/jsxcond)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![npm](https://img.shields.io/npm/v/jsxcond.svg)](https://npmjs.org/package/jsxcond)
